@@ -46,3 +46,54 @@ p {
 }
 
 /* TODO: Add CSS for the rest of your solution below */
+.row3 {
+  justify-content: space-between;
+}
+.r80 {
+  width: 80px;
+  background-color: red;
+}
+.b40 {
+  width: 40px;
+  background-color: blue;
+}
+
+.rGrow {
+  flex: 1;
+  background-color: red;
+}
+
+.row5 {
+  justify-content: center;
+  align-items: center;
+}
+.r40 {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+}
+
+
+.row7 {
+  justify-content: space-between;
+}
+.leftSlot {
+  display: flex;
+  flex: 1;
+}
+
+.row8 {
+  justify-content: space-between;
+}
+.o40 {
+  width: 40px;
+  background-color: orange;
+}
+
+.oShrink {
+  flex: 1;
+  background-color: orange;
+}
+.gap20 {
+  width: 20px;
+}

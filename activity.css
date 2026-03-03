@@ -1,0 +1,29 @@
+
+body {
+  background-color: rgb(255, 98, 155);
+ 
+b {
+    color: rgb(0, 0, 193);
+    font-size: medium;
+    font-style: italic;
+}
+
+h1{
+    font-size: xx-large;
+    color:rgba(207, 0, 76, 0.95)
+}
+.navbar {
+    color: rgb(176, 0, 0);
+    font-size: large;
+    .container {
+  background-color: #ffb1b1;
+  padding: 20px;
+  border: 1px solid #ccc;
+
+}
+
+
+}
+
+
+}
